@@ -62,3 +62,5 @@ public 目录下的文件，可作为根目录下的文件来引用。
 ```
 
 默认组件内生效，不会影响其他组件。
+
+[使用 `classnames` 库来切换样式](https://nextjs.org/learn/basics/assets-metadata-css/styling-tips) 。
